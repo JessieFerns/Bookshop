@@ -1,0 +1,97 @@
+h2{
+    font-size: 30px;
+}
+
+.book_mainDIV img{
+    border-radius: 25px;
+}
+
+h4{
+    font-size: 25px;
+}
+
+.book_mainDIV h5{
+    font-size: 24px;
+}
+
+.book_mainDIV p{
+    font-size: 20px;
+}
+
+.Book{
+      border: 3px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.book_head{
+    font-size: 23px;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    display: inline-block;
+    width: 100%;
+    
+}
+
+.book_head i{
+    float: right;
+}
+
+#hp p{
+    font-size: 20px;
+}
+
+#hp span{
+   color: yellow;
+    font-size: 20px;
+}
+
+h5{
+    font-size: 20px;
+}
+
+#lord_rings p{
+    font-size: 20px;
+}
+
+#lord_rings span{
+   color: yellow;
+    font-size: 20px;
+}
+
+#little_women p{
+    font-size: 20px;
+}
+
+#little_women span{
+   color: yellow;
+    font-size: 20px;
+}
+
+#secret_island p{
+    font-size: 20px;
+}
+
+#secret_island span{
+   color: yellow;
+    font-size: 20px;
+}
+
+#magic_drum p{
+    font-size: 20px;
+}
+
+#magic_drum span{
+   color: yellow;
+    font-size: 20px;
+}
+
+body{
+    background-color: #e3c574;
+}
+
+#books{
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
